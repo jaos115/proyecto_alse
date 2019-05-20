@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/main.cpp
+wiringPi.h
+-
+sqlite3.h
+-
+qt5/QtSql/qsqldatabase.h
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/qt5/QtSql/qsqldatabase.h
+qt5/QtSql/qsqlindex.h
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/qt5/QtSql/qsqlindex.h
+qt5/QtSql/QSqlQuery
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/qt5/QtSql/QSqlQuery
+

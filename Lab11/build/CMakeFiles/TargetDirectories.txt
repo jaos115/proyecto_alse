@@ -1,0 +1,3 @@
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/build/CMakeFiles/edit_cache.dir
+/home/pi/Documents/Proyectos/ALSE_labs/Lab11/build/CMakeFiles/blink_RBPi.dir

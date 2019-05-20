@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/blink_RBPi.dir/main.cpp.o  -o blink_RBPi -rdynamic -lwiringPi -lsqlite3 -lmysqlclient 
